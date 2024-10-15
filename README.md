@@ -6,8 +6,9 @@
 The Optimized Register and Computation Architecture, or ORCA, is a Virtual Machine designed with an emphasis on efficiency, precision, and flexibility. ORCA leverages a 64-bit word size, extensive register set, and robust instruction set architecture to enable developers to build high-performance applications. ORCA aims to streamline the development process while maintaining an open-source ethos. This project invites contributions from the community to enhance its capabilities and foster a collaborative environment for innovation in virtual machine design.
 
 ## Future Supported Platforms
+- 16-bit Micro (Currently In Development)
 - 32-bit Compact
-- 64-bit Standard (Currently In Development)
+- 64-bit Standard
 - 128-bit High-Performance
 
 ## Architecture Details
